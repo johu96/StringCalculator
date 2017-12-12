@@ -11,7 +11,7 @@ namespace StringCalculator
         /// <summary>
         /// Calculate Sum
         /// </summary>
-        /// <param name="expression">Digits to </param>
+        /// <param name="expression">Digits to calculate</param>
         /// <returns></returns>
         public int Add( string expression)
         {
